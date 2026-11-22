@@ -1,23 +1,5 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T16:39:43Z",
-  "themes": [
-    {
-      "id": "c_al",
-      "builtin": false,
-      "countryCode": "AL",
-      "name": "Albania",
-      "colorValue": 4291176488,
-      "keywords": [],
-      "photos": [
-        {
-          "path": "photos/53963cbecfa59908c5d1ed7ae2dae80ff2e8d8239c6c436e9fe9893383e40fdc.jpg",
-          "sha256": "53963cbecfa59908c5d1ed7ae2dae80ff2e8d8239c6c436e9fe9893383e40fdc",
-          "w": 735,
-          "h": 433
-        }
-      ],
-      "updatedAt": "2026-11-22T16:39:43Z"
-    }
-  ]
+  "updatedAt": "2026-11-22T17:15:22Z",
+  "themes": []
 }
